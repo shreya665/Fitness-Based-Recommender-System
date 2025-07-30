@@ -1,0 +1,2811 @@
+Patient_ID,Age,Gender,Weight_kg,Height_cm,BMI,Disease_Type,Cholesterol_mg/dL,Glucose_mg/dL,Diet_Recommendation,workout,nutrition
+P0001,56,Male,58.4,160,22.8,Obesity,173.3,116.3,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0002,69,Male,101.2,169,35.4,Diabetes,199.2,137.1,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0003,46,Female,63.5,173,21.2,Hypertension,181,109.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0004,32,Male,58.1,164,21.6,None,168.2,159.4,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0005,60,Male,79.5,197,20.5,Diabetes,200.4,182.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0006,25,Female,105.7,156,43.4,Obesity,182.3,108.9,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0007,78,Male,102.2,170,35.4,None,175.8,95.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0008,38,Male,53.8,191,14.7,Diabetes,196.4,85.1,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0009,56,Male,81.9,175,26.7,Obesity,163.3,150.1,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0010,75,Male,86.6,193,23.2,Hypertension,242.8,127.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0011,36,Male,95.1,163,35.8,Hypertension,236.8,94.4,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0012,40,Female,95.5,186,27.6,Diabetes,220.8,154.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Walking ,Jogging,Yoga,Zumba","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0013,28,Male,75.5,170,26.1,Diabetes,160.6,89.3,"High Protein, Balanced Diet","Strength training,running,yoga",NULL
+P0014,28,Male,89.2,167,32,Obesity,227.6,142.1,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0015,41,Male,83.7,154,35.3,None,230.8,138.5,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0016,70,Male,111.9,152,48.4,Obesity,226.8,165.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0017,53,Male,87.1,172,29.4,Hypertension,161.4,77.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0018,57,Female,80.9,175,26.4,Diabetes,214.4,185.4,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0019,41,Male,78.3,186,22.6,Obesity,233.4,161.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0020,20,Female,90.1,173,30.1,Diabetes,207.7,98.1,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0021,39,Female,106.3,198,27.1,None,214.6,93.8,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0022,70,Male,87.7,168,31.1,None,195.8,126.1,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0023,19,Male,96.3,174,31.8,Obesity,202.9,176.3,Balanced,NULL,"Carbohydrates:	45-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0024,41,Male,101.6,170,35.2,None,153.4,179.6,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0025,61,Male,86.4,161,33.3,Diabetes,213.9,137.7,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0026,47,Female,79.9,190,22.1,Obesity,158.1,181.9,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0027,55,Male,111.4,182,33.6,Hypertension,193.5,70.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0028,19,Male,79.2,199,20,None,179.3,74.6,Balanced,NULL,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-25%"
+P0029,77,Male,82.3,153,35.2,Diabetes,204.5,188.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0030,38,Male,119.3,191,32.7,Obesity,163.3,170.8,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0031,50,Male,50,156,20.5,None,219.2,128.6,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0032,29,Male,63,171,21.5,Diabetes,229.5,168,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0033,75,Female,76.9,182,23.2,Hypertension,166.3,194.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0034,39,Female,115.3,166,41.8,Obesity,160.4,170.4,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0035,78,Male,54.9,173,18.3,Hypertension,164.6,179.5,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0036,61,Male,50.7,183,15.1,Diabetes,237.7,168.9,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0037,42,Male,53.7,177,17.1,Diabetes,202.8,91.9,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0038,66,Female,56.2,192,15.2,Diabetes,196.7,178.4,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0039,44,Male,52.6,190,14.6,None,160.7,95.4,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0040,76,Female,83.6,188,23.7,Hypertension,215,186,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0041,59,Male,90.7,171,31,Diabetes,236.8,129.6,Low_Carb,NULL,NULL
+P0042,45,Male,69,198,17.6,Hypertension,232.8,158,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0043,77,Male,77.9,166,28.3,Hypertension,212.6,134.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0044,33,Male,56.4,183,16.8,Diabetes,157.5,82.2,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0045,32,Female,73.5,155,30.6,Hypertension,161.2,107.8,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0046,79,Female,86.6,195,22.8,Hypertension,154.9,197.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0047,79,Male,101.3,155,42.2,Hypertension,175.7,194.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0048,64,Male,50.2,183,15,Obesity,163.6,111.7,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0049,79,Female,82.7,150,36.8,Diabetes,176,199.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0050,68,Female,70.8,159,28,Obesity,188.5,179.9,"Calcium,Fruits,Juice,Little bit carbs",walking,NULL
+P0051,61,Female,109.7,170,38,Hypertension,244.3,149.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0052,72,Female,100.1,154,42.2,Hypertension,211,75.2,"Salads,Calcium,Fruits",stretching,NULL
+P0053,69,Male,91.2,151,40,Obesity,233.5,187.2,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0054,74,Female,69.4,171,23.7,Hypertension,221,142.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0055,20,Male,113.7,197,29.3,None,161.3,182.9,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0056,54,Female,53.2,151,23.3,Obesity,223.6,178.5,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0057,68,Female,57.7,159,22.8,Hypertension,177.5,178.3,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0058,24,Female,77.4,183,23.1,None,213.9,160.8,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0059,38,Female,58.7,165,21.6,Obesity,184.1,107.9,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0060,26,Female,116.9,197,30.1,Diabetes,249.8,113.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0061,56,Male,105.9,188,30,Diabetes,176.4,110.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0062,35,Male,68.1,171,23.3,Diabetes,177.9,72.6,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0063,21,Female,91.2,161,35.2,None,243.1,145.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0064,42,Female,118.8,173,39.7,Obesity,152.5,160.8,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0065,77,Male,111.9,196,29.1,None,219.7,181,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0066,31,Female,92.1,189,25.8,Obesity,222.5,88.2,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0067,67,Female,113.3,187,32.4,Hypertension,233.6,140.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0068,75,Male,119.2,159,47.2,Diabetes,247.4,71,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0069,26,Female,102,184,30.1,Obesity,247.6,82.4,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0070,43,Female,54.5,198,13.9,Hypertension,156.5,77,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0071,70,Male,78.1,181,23.8,None,232.2,164.3,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0072,19,Male,108.6,156,44.6,Diabetes,214.6,80.5,Low_Carb,NULL,NULL
+P0073,37,Male,66.1,170,22.9,Hypertension,214.7,163.1,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0074,45,Female,108.1,169,37.8,Obesity,162.8,102.5,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0075,64,Male,58.4,175,19.1,Obesity,215,184.1,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0076,77,Male,53.3,153,22.8,Hypertension,248.2,175.7,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0077,24,Male,76.9,195,20.2,Obesity,241.2,194.5,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0078,61,Male,52.6,171,18,Diabetes,193.9,184.9,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0079,78,Male,117,164,43.5,Obesity,154,191.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0080,25,Male,107.8,189,30.2,Obesity,186.2,181.6,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0081,64,Female,106.1,170,36.7,None,232.6,160.1,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0082,52,Female,94.1,164,35,None,220.1,92.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0083,31,Male,65.1,171,22.3,Hypertension,195.9,105.3,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0084,34,Male,86.3,177,27.5,Diabetes,155.5,97.7,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0085,53,Male,91.8,163,34.6,None,192.7,148.5,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0086,67,Female,86.8,176,28,Hypertension,196.9,135.5,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0087,57,Female,68.2,190,18.9,None,242.9,182.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0088,21,Female,86.1,189,24.1,Diabetes,214.1,193.8,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0089,19,Female,84.4,177,26.9,Obesity,181.2,122.6,Balanced,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0090,79,Female,119.7,175,39.1,None,202.5,135.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0091,23,Female,112.8,198,28.8,None,156.6,196.3,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0092,71,Female,82.4,151,36.1,Hypertension,247.3,105.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0093,59,Female,93.6,174,30.9,Obesity,186,173,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0094,21,Female,102.4,152,44.3,Hypertension,197.8,99.3,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0095,71,Male,52.4,157,21.3,Diabetes,185.5,158.6,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0096,46,Male,112.6,193,30.2,Obesity,218.3,103,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0097,35,Male,110.2,182,33.3,Obesity,216.2,184.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0098,43,Male,82,191,22.5,None,221.5,143,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0099,61,Female,77.4,184,22.9,Hypertension,176.8,94.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0100,51,Female,69.1,155,28.8,Diabetes,181.6,99.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0101,27,Male,83.4,188,23.6,Diabetes,162.5,134.2,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0102,79,Female,53.1,172,17.9,Hypertension,215.6,195,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0103,53,Male,109.7,174,36.2,Hypertension,154,170.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0104,31,Female,52.5,199,13.3,Obesity,209.8,133.5,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0105,48,Male,73,192,19.8,Hypertension,237,113.9,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0106,65,Female,115.2,168,40.8,None,239.1,141.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0107,32,Female,101.5,154,42.8,None,194.9,167.3,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0108,25,Male,69.7,160,27.2,Obesity,195.9,171.9,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0109,31,Female,67.7,161,26.1,None,157.7,112.2,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0110,40,Male,50.4,159,19.9,Obesity,217.1,163.8,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0111,77,Male,98.7,157,40,Hypertension,232.1,155.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0112,74,Male,53.4,173,17.8,Diabetes,174.5,194.7,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0113,79,Male,87.3,177,27.9,Hypertension,192.1,191,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0114,57,Female,117.3,190,32.5,Hypertension,233.9,172.6,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0115,38,Female,57.7,185,16.9,None,237.7,164,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0116,33,Female,112.6,186,32.5,Hypertension,174.3,105.6,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0117,62,Male,119.4,170,41.3,None,205.1,180,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0118,35,Female,54.3,157,22,Obesity,169.2,125.6,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0119,64,Male,111.8,158,44.8,Diabetes,160.2,105.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0120,70,Female,86.1,196,22.4,None,241.1,119.9,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0121,41,Female,113.5,164,42.2,Hypertension,232.1,178.7,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0122,43,Female,90,197,23.2,Hypertension,226,89.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0123,42,Male,96.3,195,25.3,Obesity,154.9,129.3,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0124,77,Female,88.1,189,24.7,Diabetes,234.4,134,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0125,77,Female,110.5,167,39.6,Obesity,193.8,74.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0126,77,Male,101.4,191,27.8,Hypertension,184.2,95.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0127,62,Female,86.5,169,30.3,Hypertension,204.6,177.5,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0128,58,Male,110.8,155,46.1,None,159.1,178,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0129,46,Female,67.2,161,25.9,Hypertension,225.7,108,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0130,32,Male,61,151,26.8,Diabetes,208.2,183.7,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0131,62,Male,61.2,156,25.1,Hypertension,168.7,170.3,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0132,18,Female,73.4,165,27,None,168.8,124.3,Balanced,NULL,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-25%"
+P0133,42,Male,66.7,152,28.9,Diabetes,168.4,167.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0134,24,Male,115.1,194,30.6,Diabetes,155.7,195,"low carbs,High protein","Intense workout,Running",NULL
+P0135,26,Male,57.4,152,24.8,Diabetes,208.8,129.7,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0136,41,Male,98.9,176,31.9,Diabetes,234,101,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0137,18,Male,63.2,199,16,None,151.7,192.4,Balanced,NULL,"Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0138,61,Male,111.7,192,30.3,Obesity,154.9,148.5,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0139,25,Female,117.3,189,32.8,Hypertension,207.3,83.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0140,41,Male,82.6,187,23.6,Obesity,231.9,144.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0141,28,Male,111.5,182,33.7,Hypertension,182.7,135.1,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0142,68,Female,50.4,177,16.1,None,185,181.2,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0143,34,Female,107.4,150,47.7,None,209.6,139,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0144,25,Female,66,157,26.8,Hypertension,177.4,103.2,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0145,52,Female,113.6,186,32.8,None,152.7,157.8,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0146,52,Female,50.1,181,15.3,Obesity,223.5,140.5,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0147,50,Female,88.9,197,22.9,Hypertension,212.6,100.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0148,76,Female,103,192,27.9,Diabetes,208.1,144.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0149,22,Male,68.1,186,19.7,Hypertension,224.2,176.8,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0150,59,Male,63.5,153,27.1,Obesity,217.5,73.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0151,56,Female,55.9,179,17.4,None,170.6,152,"Walking,Jogging","Walking,Jogging",NULL
+P0152,75,Male,72.9,155,30.3,Obesity,185.2,115.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0153,58,Male,89.2,195,23.5,None,162.6,108,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0154,45,Male,58.1,168,20.6,Obesity,163,121,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0155,24,Female,76.4,181,23.3,None,217.6,114.5,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0156,26,Female,50.6,158,20.3,Obesity,235.9,178.2,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0157,25,Male,107.3,161,41.4,Hypertension,246.3,105.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0158,29,Female,59,160,23,Hypertension,212.8,165.3,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0159,51,Male,69.8,195,18.4,None,168.4,82.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0160,50,Male,51.3,165,18.8,Diabetes,160.6,193.7,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0161,65,Male,80.3,150,35.7,None,231.3,150.9,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0162,72,Male,108.8,194,28.9,Diabetes,207.9,161.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0163,40,Female,77.5,170,26.8,Hypertension,211.8,108.7,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0164,79,Female,62.6,179,19.5,None,228.1,123.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0165,41,Female,102.8,162,39.2,Diabetes,220.3,99.1,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0166,54,Male,105.2,183,31.4,Diabetes,233.4,191.2,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0167,52,Female,62.2,153,26.6,Hypertension,155.6,133.5,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0168,61,Male,104,177,33.2,None,224.8,152,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0169,57,Female,116.3,187,33.3,Diabetes,235.1,165.5,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0170,39,Male,61.6,180,19,None,178.6,118.2,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0171,44,Male,104,176,33.6,Diabetes,214,163.6,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0172,52,Male,99.6,154,42,None,181.4,157.9,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0173,18,Female,83.2,174,27.5,None,245.8,161.7,Balanced,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0174,52,Female,54.1,152,23.4,Hypertension,153.3,133.6,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0175,54,Female,55.2,182,16.7,Hypertension,208,119.8,"Walking,Jogging","Walking,Jogging",NULL
+P0176,64,Female,109.7,153,46.9,Hypertension,166.7,98.9,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0177,31,Male,119.3,174,39.4,Obesity,221.2,177.2,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0178,20,Female,97.3,169,34.1,Diabetes,167.6,149.1,"low carbs,High protein","Intense workout,Running","Carbohydrates:	45-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0179,18,Female,81.2,183,24.2,Diabetes,173.5,127.8,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0180,22,Male,95.3,175,31.1,Diabetes,199.4,192.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0181,43,Male,91.6,154,38.6,Hypertension,241.5,76.2,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0182,72,Male,76.9,184,22.7,Diabetes,171.2,180.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0183,31,Female,54.6,177,17.4,Obesity,164.4,199.7,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0184,56,Male,107.5,178,33.9,None,225.9,185.3,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0185,44,Male,76,158,30.4,Hypertension,200.1,175.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0186,26,Male,107.3,187,30.7,Hypertension,241.2,118.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0187,32,Female,67.7,199,17.1,Hypertension,164.7,100.1,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0188,32,Male,50.1,155,20.9,None,214.6,165.5,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0189,43,Female,61.1,168,21.6,None,173.3,109.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0190,59,Female,82.8,193,22.2,None,165.7,92.9,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0191,77,Male,116.1,160,45.4,None,218.3,172.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0192,30,Male,57.2,151,25.1,Diabetes,209.4,110.6,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0193,68,Female,109.8,196,28.6,None,225.5,188.9,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0194,49,Male,86.9,193,23.3,Obesity,180.9,179.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0195,56,Male,107.8,193,28.9,Diabetes,194.8,180.2,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0196,66,Female,70.9,158,28.4,None,190.5,170.3,"Calcium,Fruits,Juice,Little bit carbs",walking,NULL
+P0197,69,Female,108.8,170,37.6,Diabetes,248.4,184.5,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0198,78,Male,104.1,173,34.8,Obesity,179.2,174.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0199,49,Female,66.1,183,19.7,Diabetes,179.5,148.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0200,21,Male,59.2,171,20.2,Hypertension,185.5,108.5,Low_Sodium,NULL,NULL
+P0201,47,Male,110.8,152,48,Obesity,206.5,185.5,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0202,54,Male,117.4,161,45.3,Hypertension,175.2,179.3,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0203,40,Female,52.2,177,16.7,Hypertension,241.5,131.5,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0204,56,Male,101.2,179,31.6,Hypertension,176.6,75.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0205,62,Male,113.7,175,37.1,None,239.6,153,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0206,32,Male,110,197,28.3,Diabetes,160.3,76.6,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0207,60,Female,117.5,170,40.7,Hypertension,215.7,190.4,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0208,46,Female,103.2,177,32.9,None,240.7,195,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0209,53,Female,81,175,26.4,None,166.9,94.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0210,30,Female,71.8,182,21.7,Hypertension,246.8,157.9,"High Protein, Balanced Diet","Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0211,49,Female,72.5,170,25.1,Obesity,195.3,82,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0212,24,Male,100.7,184,29.7,None,244.6,164.8,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0213,76,Female,102.2,183,30.5,None,217.7,115.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0214,68,Female,64,190,17.7,Hypertension,180.2,158.5,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0215,39,Female,110.8,196,28.8,Diabetes,168.8,118.5,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0216,45,Male,100,167,35.9,Diabetes,180.4,88.9,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0217,19,Female,89.4,160,34.9,Diabetes,159.3,122.8,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0218,59,Female,83,172,28.1,Hypertension,164.4,84.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0219,62,Male,88,197,22.7,Diabetes,160.5,145,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0220,79,Female,61.1,171,20.9,Obesity,192.3,75.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0221,74,Male,64.3,166,23.3,Hypertension,229.6,138.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0222,70,Male,56.4,154,23.8,Diabetes,164.1,185.2,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0223,23,Male,60.8,193,16.3,None,163,178.9,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0224,45,Male,81.8,160,32,Hypertension,214.3,184.8,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0225,45,Male,87.1,179,27.2,Diabetes,169.7,189.9,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0226,61,Female,51.3,164,19.1,None,159.8,83.6,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0227,61,Male,105.8,176,34.2,Diabetes,166.7,86.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching",NULL
+P0228,37,Male,70.6,184,20.9,Obesity,242.4,142.4,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0229,47,Female,113.8,182,34.4,Obesity,232.1,186.2,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0230,79,Male,117.7,169,41.2,Hypertension,185.4,196.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0231,28,Female,63,165,23.1,None,215.6,76,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0232,75,Female,82.3,183,24.6,Hypertension,203.7,116.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0233,72,Female,50.1,151,22,Hypertension,217.7,97.7,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0234,45,Male,91.9,184,27.1,Diabetes,218.3,168.3,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0235,42,Male,92.5,189,25.9,Diabetes,212.9,153.2,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0236,56,Male,67.3,177,21.5,None,176.6,85.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0237,79,Female,89.1,196,23.2,Hypertension,153.9,132.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0238,50,Male,65.8,188,18.6,Hypertension,195.6,159.1,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0239,18,Male,61.3,155,25.5,Hypertension,239.1,171.3,Low_Sodium,NULL,"Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0240,74,Male,95.6,158,38.3,Hypertension,206.9,72.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0241,44,Female,72.8,169,25.5,Diabetes,233.2,185.8,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0242,79,Female,91.3,150,40.6,Hypertension,249.2,144,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0243,74,Male,80.3,157,32.6,Obesity,166.4,175.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0244,69,Male,118.9,172,40.2,Diabetes,219.2,175,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0245,30,Male,60.5,152,26.2,Diabetes,217.4,94.7,"High Protein, Balanced Diet","Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0246,58,Male,82.5,153,35.2,Diabetes,248,84.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0247,20,Female,97.6,174,32.2,Hypertension,248.6,163.8,"low carbs,High protein","Intense workout,Running","Carbohydrates:	45-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0248,56,Female,77.7,196,20.2,None,218.7,90.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0249,23,Female,118.2,187,33.8,Diabetes,174.4,180.5,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0250,25,Female,100.5,164,37.4,Diabetes,229.9,164.4,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0251,44,Male,96,170,33.2,Hypertension,160.7,179.4,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0252,26,Male,103,184,30.4,Obesity,228.1,108.9,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0253,79,Male,116.7,195,30.7,Obesity,241,111.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0254,54,Female,113.5,163,42.7,Hypertension,188.3,157.3,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0255,50,Male,100.7,185,29.4,Obesity,213.1,74.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching",NULL
+P0256,68,Female,102.4,161,39.5,Obesity,193,164.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0257,59,Female,60.2,166,21.8,None,193.8,178.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0258,61,Male,57.2,188,16.2,None,181,124,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0259,41,Male,90,158,36.1,Diabetes,226.2,169.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0260,32,Male,51.3,184,15.2,Diabetes,243.6,92.7,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0261,76,Female,83.8,162,31.9,Diabetes,244.1,111.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0262,71,Male,64.7,164,24.1,Hypertension,167.5,196.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0263,49,Female,74.2,167,26.6,None,237.5,198.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0264,49,Male,104.3,182,31.5,Hypertension,223.7,136.6,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0265,41,Female,115.9,155,48.2,Diabetes,175.3,191.5,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0266,58,Female,55.1,176,17.8,Obesity,156.7,138,"Walking,Jogging","Walking,Jogging",NULL
+P0267,69,Male,87.4,172,29.5,Hypertension,176.8,107.9,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0268,66,Female,111.8,176,36.1,Diabetes,241.2,104.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0269,79,Female,55.8,183,16.7,Hypertension,213.3,190.8,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,NULL
+P0270,66,Male,107.7,195,28.3,Hypertension,222.1,92.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0271,75,Female,75,187,21.4,Obesity,175.7,145.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0272,69,Male,72.5,163,27.3,Diabetes,221.9,142.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0273,29,Female,118.4,185,34.6,Diabetes,152.8,166.2,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0274,79,Male,64.1,157,26,Hypertension,187.5,134.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0275,56,Male,98.5,184,29.1,Diabetes,212.7,105.4,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0276,19,Female,107.5,168,38.1,Obesity,164.6,92,Balanced,NULL,NULL
+P0277,20,Female,52.9,179,16.5,Hypertension,232.3,150.7,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	50-60%
+Proteins:	15-20%
+Fats:	25-30%"
+P0278,66,Female,96.9,163,36.5,Hypertension,173.5,163.5,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0279,54,Female,116.6,169,40.8,None,215.2,144,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0280,66,Female,58.7,198,15,Obesity,190.5,166,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0281,73,Male,112.7,174,37.2,Diabetes,209.6,88.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0282,34,Female,91.6,189,25.6,Hypertension,160.7,184.7,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0283,76,Male,93.2,173,31.1,Obesity,151.7,145.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0284,66,Male,92.9,163,35,Obesity,241,86.5,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0285,19,Female,70.9,175,23.2,Diabetes,177,130.1,Low_Carb,NULL,NULL
+P0286,19,Male,115.5,187,33,None,232,179.8,Balanced,NULL,NULL
+P0287,45,Male,116.3,172,39.3,Hypertension,249.9,186.7,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0288,71,Male,93.8,171,32.1,Diabetes,171.1,104.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0289,40,Male,104.8,197,27,Diabetes,176.5,162.5,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Walking ,Jogging,Yoga,Zumba","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0290,54,Female,92.9,168,32.9,Diabetes,216.3,83,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0291,49,Male,83.9,195,22.1,None,246.5,74.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0292,50,Female,96.3,152,41.7,Diabetes,241.6,142.9,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0293,18,Female,88.7,191,24.3,Diabetes,200.3,160.3,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0294,36,Male,91.8,168,32.5,None,229.5,173.5,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0295,79,Female,104.9,158,42,Hypertension,163.6,114.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0296,19,Female,83.7,177,26.7,Diabetes,247.7,70.8,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0297,70,Female,52.9,169,18.5,Diabetes,246.4,132.3,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0298,61,Male,61.5,194,16.3,Diabetes,166.4,72.1,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0299,43,Female,80.7,156,33.2,Diabetes,179.9,82,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0300,49,Female,100.7,163,37.9,Obesity,160,112.5,Balanced,"Walking ,Jogging,Yoga,Zumba",NULL
+P0301,23,Female,91.5,158,36.7,Diabetes,177.2,126.8,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0302,49,Male,95.5,168,33.8,Diabetes,231.6,106.3,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0303,72,Female,83.5,196,21.7,Obesity,187.8,145.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0304,21,Male,93.1,163,35,Obesity,158.8,77.2,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0305,72,Male,73,187,20.9,Hypertension,184.2,88.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0306,28,Male,82.9,185,24.2,Hypertension,248.1,160.4,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0307,73,Male,102.1,189,28.6,Hypertension,213,88.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0308,76,Male,111,166,40.3,Hypertension,191.6,153.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0309,34,Male,80.4,179,25.1,Hypertension,166.7,77.1,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0310,55,Female,53.1,158,21.3,Hypertension,248.6,123,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0311,41,Male,61.3,182,18.5,None,232.1,93.1,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0312,22,Female,51.5,174,17,Diabetes,178.1,84.3,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0313,69,Female,95.7,163,36,Obesity,157,143.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching",NULL
+P0314,51,Male,73.3,160,28.6,Diabetes,155.7,190.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0315,23,Female,88,184,26,Obesity,162,77.1,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0316,39,Female,84.5,190,23.4,Obesity,208.1,124.8,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0317,28,Female,55.7,163,21,None,242.9,162,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0318,65,Female,78.2,179,24.4,Diabetes,199.7,130.1,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0319,33,Male,65.4,190,18.1,Hypertension,234.3,174.8,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0320,50,Female,79.3,153,33.9,Hypertension,194.6,93.4,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0321,26,Male,64.3,153,27.5,Obesity,220.9,194.7,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0322,77,Female,108.8,177,34.7,Hypertension,223.2,120.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0323,76,Female,62.2,157,25.2,Hypertension,167.4,114.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0324,23,Male,117.3,151,51.4,Hypertension,186.1,183.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0325,33,Female,79.1,190,21.9,Hypertension,213.7,143.3,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0326,46,Female,109.2,195,28.7,Hypertension,157.1,137.1,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0327,20,Female,94,171,32.1,Diabetes,186.2,164.5,"low carbs,High protein","Intense workout,Running","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0328,37,Male,101.5,190,28.1,None,203.5,145.4,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0329,77,Female,103.7,165,38.1,Obesity,249.6,91.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0330,76,Male,85.3,178,26.9,None,197.5,157.6,"Salads,Calcium,Fruits",stretching,NULL
+P0331,53,Female,88,198,22.4,Diabetes,231.6,87.4,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0332,36,Male,86,197,22.2,None,193.2,174.8,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0333,43,Male,91.2,179,28.5,None,229.6,198.7,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0334,20,Female,52.1,161,20.1,Obesity,209.5,119.1,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	50-60%
+Proteins:	15-20%
+Fats:	25-30%"
+P0335,36,Female,77.7,184,23,Obesity,238.7,127.8,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0336,37,Male,92.4,160,36.1,Hypertension,191.1,76,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0337,49,Male,91.8,195,24.1,None,210.4,71.8,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0338,24,Female,105.5,199,26.6,Hypertension,213,189.8,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0339,69,Male,95.9,170,33.2,Diabetes,191.7,86.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching",NULL
+P0340,58,Female,119.4,170,41.3,Hypertension,164.4,128,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0341,50,Female,69.9,154,29.5,None,159.4,176,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0342,57,Female,75.1,197,19.4,None,151.7,185.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging",NULL
+P0343,56,Female,76.9,169,26.9,None,237.4,137.5,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0344,35,Male,82.6,186,23.9,Obesity,173.6,143.5,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0345,57,Female,108.5,152,47,Diabetes,171.2,157.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0346,18,Male,66.5,193,17.9,Diabetes,223.6,195,Low_Carb,NULL,"Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0347,28,Female,104.3,182,31.5,Diabetes,182,148.3,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0348,45,Male,78.4,158,31.4,Diabetes,200.6,142.7,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0349,74,Female,92.1,158,36.9,Hypertension,166.3,71.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0350,42,Male,94.3,153,40.3,Diabetes,246,80.5,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0351,67,Male,76.1,184,22.5,Hypertension,235.2,145,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0352,40,Female,85.9,166,31.2,None,236.4,191.7,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0353,48,Female,78.9,183,23.6,Hypertension,190.7,182.7,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0354,47,Female,54.8,173,18.3,None,226.2,197.7,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0355,59,Female,80.6,181,24.6,Obesity,164.4,138.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0356,52,Male,56.8,150,25.2,Diabetes,150.9,172.4,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0357,24,Female,78.4,157,31.8,Hypertension,152,179.3,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0358,77,Male,91.5,194,24.3,Diabetes,208.7,154.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0359,33,Male,90.6,172,30.6,Hypertension,195.5,114,Low_Sodium,NULL,NULL
+P0360,43,Female,96.4,196,25.1,Obesity,201.8,131.1,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0361,65,Male,56.7,189,15.9,Diabetes,150.7,181.5,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0362,74,Male,95.6,161,36.9,Diabetes,192.3,108.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0363,69,Male,71.9,161,27.7,Hypertension,221.8,190.1,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0364,77,Male,77.9,195,20.5,None,194.3,99.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0365,66,Female,110.1,196,28.7,Obesity,223.2,167.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0366,19,Female,50.6,164,18.8,Obesity,173.3,152,Balanced,NULL,"Carbohydrates:	50-60%
+Proteins:	15-20%
+Fats:	25-30%"
+P0367,18,Female,91.2,190,25.3,Diabetes,231.3,167.4,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0368,65,Female,91.9,168,32.6,Obesity,208.8,126.9,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0369,79,Male,77.8,175,25.4,Obesity,171.1,191.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0370,29,Male,66.6,178,21,Obesity,173.7,152.2,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0371,22,Female,66.4,171,22.7,None,212.8,107.5,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0372,54,Female,111.9,189,31.3,Hypertension,233,153,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0373,49,Female,80.9,170,28,None,191.6,107.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0374,76,Male,73.2,187,20.9,None,175.8,108.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0375,72,Female,81.4,169,28.5,Diabetes,236.7,121.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0376,26,Female,96.9,178,30.6,Hypertension,216.9,180.8,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0377,58,Female,60.2,153,25.7,None,194.8,135,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0378,52,Male,81.5,156,33.5,Diabetes,198.8,158.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0379,36,Male,91.2,177,29.1,Hypertension,170.4,121,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0380,65,Male,116.4,177,37.2,None,212.7,104.3,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0381,33,Male,67.7,153,28.9,Hypertension,185.9,194.1,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0382,20,Male,75.1,171,25.7,Diabetes,249.6,148.5,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-25%"
+P0383,37,Male,76.6,161,29.6,Hypertension,198,191.4,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0384,41,Male,92.4,194,24.6,Diabetes,198.6,96.4,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0385,71,Male,75,152,32.5,Hypertension,206.6,89.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0386,73,Female,87.3,171,29.9,Diabetes,241.7,181.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0387,50,Female,104.7,193,28.1,Obesity,230.1,158.5,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0388,41,Male,99.4,151,43.6,Hypertension,195.1,94.3,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0389,69,Male,81.2,173,27.1,Obesity,221.9,105,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0390,28,Female,110.5,183,33,Obesity,208.6,174.1,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0391,66,Male,89.1,176,28.8,Hypertension,199.2,129,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0392,25,Male,87.8,190,24.3,Obesity,169.2,157.2,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0393,53,Male,52.4,150,23.3,Diabetes,196.4,111.4,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0394,55,Female,119.1,157,48.3,Hypertension,174.6,119.6,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0395,57,Female,58.6,172,19.8,Diabetes,241.5,198.8,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0396,37,Female,66.2,187,18.9,None,183.5,102.2,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0397,79,Female,53.6,155,22.3,Diabetes,245.2,135.8,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0398,52,Female,94.8,171,32.4,Hypertension,203.3,179.8,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0399,65,Male,65.7,174,21.7,Obesity,213.2,101.1,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0400,79,Female,62.6,167,22.4,Hypertension,204.3,124,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0401,42,Male,56.2,166,20.4,Diabetes,162.9,150,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0402,52,Male,57.2,161,22.1,Hypertension,187.6,132.6,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0403,42,Female,90.9,155,37.8,Obesity,159.9,129.7,Balanced,NULL,"Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0404,46,Female,98.2,175,32.1,Obesity,212.3,117.1,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0405,35,Male,77.8,176,25.1,Hypertension,194.7,146.3,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0406,63,Male,83.6,157,33.9,Hypertension,227.8,151.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0407,35,Male,98,168,34.7,Hypertension,172,154.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0408,19,Female,51.2,191,14,Obesity,166.5,79.1,Balanced,NULL,"Carbohydrates:	50-60%
+Proteins:	15-20%
+Fats:	25-30%"
+P0409,71,Female,72.6,150,32.3,Hypertension,190.6,152,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0410,52,Female,118.1,178,37.3,Hypertension,242.7,193.9,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0411,33,Female,90.6,194,24.1,Diabetes,221,140.3,Low_Carb,NULL,NULL
+P0412,78,Female,67.8,198,17.3,Diabetes,191.9,163,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0413,58,Male,86.5,184,25.5,Diabetes,201.7,142.4,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0414,53,Female,74,189,20.7,Diabetes,158.4,181.1,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0415,50,Male,87.3,163,32.9,Hypertension,248.5,190.8,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0416,21,Male,58.8,184,17.4,Obesity,216.6,93.9,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0417,50,Male,59.3,197,15.3,Diabetes,178.5,126.8,Low_Carb,NULL,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0418,31,Female,60,194,15.9,None,208.6,121,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0419,38,Female,115.8,169,40.5,Diabetes,160.9,122.7,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0420,65,Female,101.3,198,25.8,Obesity,246.6,86.3,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0421,37,Male,61.4,162,23.4,Obesity,167.5,175.8,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0422,73,Male,63.2,187,18.1,Hypertension,214.8,74.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0423,25,Male,101.2,198,25.8,Diabetes,174.5,138.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0424,24,Male,60.9,195,16,Obesity,221.8,156,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0425,20,Male,66.4,198,16.9,Hypertension,227.7,97,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0426,34,Male,117.4,157,47.6,None,217.3,187.8,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0427,50,Female,67.9,192,18.4,Hypertension,211.4,179,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0428,65,Female,96.3,169,33.7,None,239.2,131.2,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0429,29,Female,118.5,182,35.8,Diabetes,157.9,123.4,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0430,76,Female,76.2,175,24.9,Obesity,183.1,100.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0431,68,Male,51.2,188,14.5,Obesity,174.8,164.9,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0432,39,Male,67.1,170,23.2,Obesity,248.8,87.1,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0433,72,Female,108.2,198,27.6,Diabetes,188.9,158.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0434,39,Male,110.5,191,30.3,Obesity,223.3,179.5,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0435,63,Female,103.8,192,28.2,Hypertension,218.5,99.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0436,47,Female,57.9,190,16,Obesity,171.2,182.6,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0437,55,Female,105.7,158,42.3,Hypertension,173.9,74.3,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0438,55,Male,114.3,173,38.2,None,178.1,188.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0439,62,Female,92,186,26.6,Diabetes,191.1,85.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0440,68,Female,115.9,198,29.6,None,173.4,153.9,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0441,71,Female,107.9,190,29.9,None,152,102.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0442,25,Male,96.7,166,35.1,None,237.9,178.8,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0443,44,Male,90.4,173,30.2,Hypertension,246.6,136.6,Low_Sodium,NULL,"Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0444,44,Female,74.4,170,25.7,Hypertension,184.2,87.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0445,51,Male,61.2,188,17.3,None,183.9,144.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0446,38,Male,92.3,190,25.6,Diabetes,150.7,123,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0447,47,Male,72.3,188,20.5,Hypertension,218,156,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0448,50,Male,110.7,162,42.2,Obesity,232.5,184.6,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0449,45,Male,119.5,160,46.7,Obesity,164.7,123.2,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0450,64,Male,102.7,195,27,Diabetes,166,107.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0451,50,Male,56.3,168,19.9,Obesity,229,71.9,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0452,22,Male,70.2,160,27.4,None,211.6,144.7,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0453,77,Male,57.6,162,21.9,Diabetes,154.5,122.3,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0454,78,Male,95.5,195,25.1,None,212.3,118.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0455,65,Female,103.6,194,27.5,Diabetes,180.9,93.8,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0456,36,Female,114.8,150,51,Hypertension,186.9,125.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0457,21,Male,80.7,189,22.6,Diabetes,227,198,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0458,52,Female,113.1,193,30.4,Diabetes,231.1,108.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0459,66,Female,111.5,168,39.5,None,190,148,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0460,34,Male,72.2,161,27.9,Hypertension,244.7,170.9,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0461,61,Male,110.8,157,45,Hypertension,190.6,167.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0462,45,Male,76.3,157,31,Diabetes,227.2,112.7,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0463,47,Female,70.8,194,18.8,Hypertension,198.4,149.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging",NULL
+P0464,46,Female,95.4,161,36.8,Hypertension,239.8,183.3,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0465,63,Male,73,197,18.8,Hypertension,240.8,72,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0466,70,Male,94.1,182,28.4,Hypertension,158.7,126.6,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0467,23,Male,92.7,194,24.6,None,243.6,99.2,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0468,52,Female,89.4,175,29.2,Hypertension,232.6,120.5,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0469,77,Female,76.6,188,21.7,Hypertension,229.1,124.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0470,58,Female,88.4,177,28.2,Diabetes,170.1,167.1,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0471,54,Female,91.8,154,38.7,Obesity,230.5,82.2,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0472,41,Male,88.2,157,35.8,Hypertension,235,136.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0473,46,Male,81.1,174,26.8,Hypertension,178.9,143.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0474,66,Male,51,176,16.5,Diabetes,245.2,134.2,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0475,63,Male,91.1,195,24,None,155,165.1,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0476,70,Female,61.8,172,20.9,Diabetes,165,119.9,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0477,48,Female,95,179,29.6,Obesity,203.8,192.8,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0478,52,Male,103.2,194,27.4,Hypertension,207.6,132.6,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0479,77,Male,85,196,22.1,Diabetes,214.5,144.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0480,50,Female,88,172,29.7,Obesity,151.7,177.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0481,69,Male,116.6,198,29.7,Hypertension,246,105.8,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0482,78,Female,109.3,196,28.5,None,154.5,79.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0483,38,Male,114,169,39.9,None,164.3,162,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0484,49,Male,107,167,38.4,None,151.4,132.8,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0485,40,Male,57.6,167,20.7,Diabetes,206.7,186.5,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0486,50,Male,60.4,151,26.5,Obesity,243.2,197.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0487,20,Male,86.9,153,37.1,Hypertension,216.6,121.9,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0488,35,Male,67.2,179,21,None,232.3,124,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0489,42,Male,83.4,182,25.2,Obesity,151.3,123,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0490,59,Female,77.6,185,22.7,None,204.2,112.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0491,48,Female,88.5,167,31.7,Hypertension,196,171.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0492,71,Female,102.3,186,29.6,Hypertension,199.9,168.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0493,75,Female,100.1,168,35.5,Diabetes,157.2,132.2,"Salads,Calcium,Fruits",stretching,NULL
+P0494,20,Female,86.5,196,22.5,Obesity,218.4,75.8,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0495,57,Male,107.6,177,34.3,Hypertension,200.3,110.2,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0496,63,Male,80.2,189,22.5,Hypertension,226.5,108,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0497,41,Female,112.8,169,39.5,Obesity,198.5,175.4,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0498,67,Male,55,198,14,Hypertension,164.9,81.4,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0499,49,Female,116.8,182,35.3,Diabetes,214.8,174.7,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0500,64,Female,95.8,161,37,Hypertension,167.2,157,"Calcium,Fruits,Juice,No sugar","walking,Stretching",NULL
+P0501,39,Male,76.6,164,28.5,Hypertension,237.2,165.2,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0502,40,Male,63.8,190,17.7,Hypertension,211.3,126.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0503,19,Male,83.5,188,23.6,Diabetes,165.7,158.4,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0504,44,Female,63.6,151,27.9,Diabetes,246.2,149.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0505,59,Male,61.6,178,19.4,Diabetes,201.8,170,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0506,19,Female,93.2,190,25.8,Obesity,157.3,128.1,Balanced,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0507,43,Female,86.6,159,34.3,Diabetes,212.7,131.5,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0508,34,Female,96.9,151,42.5,Hypertension,175.3,153.7,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0509,57,Male,115.1,160,45,None,230.4,84.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0510,50,Male,87.3,162,33.3,Diabetes,231.8,126.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0511,26,Female,90.7,159,35.9,Hypertension,247.9,196.4,Low_Sodium,NULL,NULL
+P0512,60,Male,56.3,163,21.2,Obesity,200.2,74.9,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0513,71,Male,100.2,167,35.9,None,195.5,111.1,"Salads,Calcium,Fruits",stretching,NULL
+P0514,65,Male,78,158,31.2,Obesity,225.3,110.8,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0515,56,Female,118.4,188,33.5,Obesity,163.2,152.4,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0516,46,Female,107.6,177,34.3,None,204.7,83.8,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0517,59,Male,86.6,152,37.5,Hypertension,204.6,151.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0518,72,Female,58.6,169,20.5,None,158.9,82.4,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0519,43,Male,110.2,155,45.9,Diabetes,191.8,82.3,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0520,52,Male,106,176,34.2,None,235.3,164.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0521,67,Male,62.9,151,27.6,Hypertension,235.6,112.1,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0522,42,Male,70.7,178,22.3,Hypertension,159.9,197.1,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging",NULL
+P0523,41,Female,105.5,187,30.2,Diabetes,159.1,74.9,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0524,30,Female,63,152,27.3,Obesity,176.3,127.9,"High Protein, Balanced Diet","Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0525,77,Female,114.2,165,41.9,Diabetes,237.5,84.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0526,75,Male,79.7,179,24.9,None,162.9,115.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0527,24,Male,56.1,189,15.7,None,222,199.8,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0528,74,Male,107.1,151,47,Diabetes,160.1,185.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0529,53,Female,76.1,166,27.6,None,212.3,76.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0530,62,Male,86.9,190,24.1,Obesity,185.6,143.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0531,37,Female,57.9,161,22.3,Obesity,228.9,154.2,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0532,18,Female,50.2,184,14.8,Hypertension,173.4,97.2,Low_Sodium,NULL,"Carbohydrates:	50-60%
+Proteins:	15-20%
+Fats:	25-30%"
+P0533,25,Female,94.7,192,25.7,Diabetes,213.9,88.9,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0534,63,Female,86.1,150,38.3,Diabetes,173.6,187.6,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0535,33,Female,91.5,194,24.3,Hypertension,221.4,195.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0536,31,Female,105.6,164,39.3,None,237.4,198.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0537,29,Male,95.3,175,31.1,Diabetes,162.7,172.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0538,68,Male,62.2,186,18,None,236.7,156.3,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0539,40,Female,75.3,170,26.1,Hypertension,209.4,114.9,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging",NULL
+P0540,32,Female,113.4,198,28.9,Hypertension,162.7,92.3,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0541,45,Male,103.9,180,32.1,Obesity,192.8,80.3,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0542,51,Female,89,174,29.4,None,166.1,160.1,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0543,19,Female,67.9,172,23,Hypertension,220,172,Low_Sodium,NULL,"Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0544,49,Male,71.1,173,23.8,Hypertension,225.9,177.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0545,40,Female,101.2,187,28.9,Hypertension,160.6,188.8,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Walking ,Jogging,Yoga,Zumba","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0546,39,Female,109.6,177,35,Diabetes,200.6,184.4,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0547,68,Female,97,170,33.6,Diabetes,231.5,200,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0548,42,Male,106.7,192,28.9,Hypertension,243.6,101.7,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0549,75,Male,103.7,167,37.2,Hypertension,201.4,169.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0550,79,Male,60.5,185,17.7,Obesity,245,146.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0551,78,Female,79.7,184,23.5,Hypertension,203.6,104,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0552,39,Female,60.7,194,16.1,Hypertension,189.4,197.6,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0553,75,Male,66.5,158,26.6,Hypertension,234.8,186.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0554,75,Female,110.8,187,31.7,Obesity,199.3,86.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0555,39,Female,83.1,179,25.9,None,197.2,73.4,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0556,66,Female,87.5,193,23.5,Hypertension,199,159.5,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0557,69,Female,62.5,183,18.7,Obesity,234.7,148.5,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0558,59,Female,71.9,181,21.9,Diabetes,233.2,191.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0559,23,Male,66.1,152,28.6,Hypertension,190.4,100.4,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0560,32,Female,64.4,152,27.9,Hypertension,183.3,81,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0561,71,Male,94.7,177,30.2,Hypertension,199.2,103.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0562,60,Female,68,193,18.3,Obesity,207.3,72.5,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0563,77,Male,94.2,164,35,None,173.8,74.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0564,54,Female,54.1,190,15,Diabetes,229.4,188.9,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0565,50,Male,59.9,172,20.2,Obesity,198.6,115.8,Balanced,NULL,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0566,25,Female,69.2,189,19.4,Hypertension,183.4,123.4,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0567,70,Male,91.8,160,35.9,Diabetes,160.7,72.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0568,77,Female,97.3,197,25.1,Diabetes,173.9,105.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0569,61,Male,81,181,24.7,Hypertension,244.9,174.6,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0570,61,Female,81.2,185,23.7,Diabetes,180.5,150,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0571,22,Male,100.7,182,30.4,Diabetes,166.9,168,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0572,56,Male,51.1,173,17.1,Diabetes,196.1,128.1,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0573,21,Female,73.9,188,20.9,Hypertension,180.7,110.3,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0574,23,Female,107.3,183,32,Obesity,153.5,132.8,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0575,62,Male,92.2,177,29.4,Hypertension,182.3,112,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0576,49,Female,73.6,186,21.3,None,204.4,179.1,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0577,69,Male,113.4,156,46.6,Hypertension,205.2,108.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0578,47,Male,104.1,153,44.5,Obesity,185.7,155.8,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0579,64,Male,68.5,186,19.8,None,194.7,87.8,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0580,52,Female,95.2,150,42.3,Obesity,246.6,159.3,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0581,72,Male,91.7,150,40.8,Hypertension,187.7,188.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0582,57,Male,78.1,196,20.3,Obesity,175.8,149.1,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0583,69,Female,75.7,169,26.5,Diabetes,174.3,142.8,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0584,33,Female,74,168,26.2,Hypertension,195.8,194.9,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0585,30,Female,93.2,178,29.4,Hypertension,226,151.6,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0586,67,Female,81,159,32,Hypertension,170.6,103.7,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0587,77,Male,108.2,167,38.8,Diabetes,220.9,108,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0588,59,Male,96.9,177,30.9,None,152.1,161.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0589,47,Male,54.9,184,16.2,Obesity,191.9,165.6,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0590,36,Male,94.8,192,25.7,Hypertension,227.6,109.5,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0591,34,Female,69,196,18,None,183.9,114.9,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0592,73,Male,91.5,180,28.2,Hypertension,206.4,198.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0593,36,Male,97.6,176,31.5,None,170.5,83.3,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0594,45,Female,66.2,160,25.9,Hypertension,224.2,122.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0595,75,Male,82,198,20.9,Diabetes,155.2,78.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0596,72,Male,63.3,198,16.1,Obesity,235.3,176.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0597,43,Male,53.7,187,15.4,Obesity,169.8,82,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0598,54,Male,76.5,154,32.3,Obesity,237.4,157.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0599,43,Male,75.4,157,30.6,None,185.3,77.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0600,70,Male,119.7,183,35.7,Obesity,222.3,157.5,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0601,79,Female,81.2,197,20.9,Obesity,181.9,179.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0602,40,Female,73.3,161,28.3,None,240.6,121.8,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0603,26,Male,90.6,187,25.9,Obesity,162.7,137.9,Balanced,NULL,NULL
+P0604,29,Male,56.2,150,25,Hypertension,167.9,122.2,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0605,70,Female,117.3,180,36.2,None,199.3,109.1,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0606,18,Male,94.4,153,40.3,Diabetes,158.2,174.4,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0607,75,Male,102.8,198,26.2,Obesity,169.6,105.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0608,75,Male,61.9,194,16.4,None,244.4,164,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0609,18,Female,78.7,199,19.9,Obesity,247.6,96.8,Balanced,NULL,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-25%"
+P0610,64,Male,79.6,154,33.6,Obesity,187.6,102.5,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0611,51,Female,107.5,179,33.6,Obesity,242.3,113.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0612,49,Male,50.1,173,16.7,Hypertension,204.5,146.6,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0613,79,Female,71.1,152,30.8,None,177,129.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0614,71,Female,118.7,160,46.4,Diabetes,220.2,166.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0615,65,Male,83.2,194,22.1,Diabetes,215.9,97.8,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0616,42,Female,76.8,153,32.8,Diabetes,248.9,71.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0617,57,Male,58.4,175,19.1,Hypertension,176.5,171,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0618,62,Female,118.2,176,38.2,Hypertension,217.2,176.8,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0619,70,Male,51.4,195,13.5,None,155.2,77.7,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0620,18,Male,101.6,192,27.6,Hypertension,161.4,149.4,Low_Sodium,NULL,"Carbohydrates:	45-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0621,33,Female,103.8,176,33.5,Hypertension,150.4,119.2,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0622,78,Male,67.1,191,18.4,Diabetes,249.9,173.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0623,56,Male,97,199,24.5,Hypertension,230.2,183.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0624,22,Female,56.5,155,23.5,Obesity,228.7,180.6,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0625,39,Male,68,164,25.3,Diabetes,201,171,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0626,46,Male,105.2,179,32.8,Diabetes,180,105,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0627,72,Female,110.5,191,30.3,Diabetes,165.1,175.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0628,20,Female,92.6,186,26.8,Diabetes,178.5,139.4,"low carbs,High protein","Intense workout,Running","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0629,29,Male,85.5,186,24.7,Hypertension,187.6,76.9,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0630,43,Male,61.2,191,16.8,Diabetes,225.6,129.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0631,33,Female,54.4,186,15.7,Obesity,204,192.5,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0632,68,Female,58.2,184,17.2,None,157.7,185.4,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0633,54,Male,65.9,172,22.3,Hypertension,151.8,83.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging",NULL
+P0634,39,Female,73.9,155,30.8,None,160.2,166.7,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0635,74,Male,76.7,153,32.8,Hypertension,191,174.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0636,46,Male,74.2,167,26.6,Hypertension,243.3,105.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0637,31,Male,66.7,158,26.7,None,213.7,131.3,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0638,45,Male,85.7,198,21.9,Diabetes,230.2,162.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging",NULL
+P0639,22,Male,107.8,178,34,None,196.6,127.1,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0640,64,Female,69.6,162,26.5,Diabetes,186.2,84.7,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0641,66,Female,116,196,30.2,Hypertension,160.8,161.8,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0642,47,Female,111.1,166,40.3,Diabetes,237.6,188.5,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0643,63,Female,61.3,194,16.3,Obesity,228.3,154.8,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0644,79,Male,105,181,32.1,Obesity,166.8,170.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0645,69,Male,90.2,197,23.2,Obesity,201.2,116.6,Balanced,NULL,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0646,22,Male,89.7,171,30.7,Hypertension,198.7,93.8,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0647,29,Male,77.4,153,33.1,Hypertension,212.5,153.6,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0648,33,Female,85.1,154,35.9,Diabetes,244.6,112.6,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0649,43,Male,77.8,186,22.5,Hypertension,208,181.8,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0650,43,Male,87.8,190,24.3,None,204,85.9,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0651,65,Female,94,198,24,Hypertension,155,126.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0652,38,Female,97.2,162,37,None,156.3,121.6,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0653,56,Female,87.3,183,26.1,None,168.7,191.9,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0654,53,Female,100.5,194,26.7,Hypertension,153.2,89.9,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0655,50,Male,59.9,171,20.5,Obesity,224.3,71.3,Balanced,NULL,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0656,79,Male,64.8,172,21.9,Diabetes,222.3,101,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0657,47,Female,107.3,152,46.4,Diabetes,163.6,176.6,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0658,54,Male,72.6,191,19.9,Diabetes,233.6,97.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0659,40,Male,51.6,183,15.4,Hypertension,165.5,101.3,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0660,75,Male,60.8,181,18.6,Hypertension,180.1,86.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0661,27,Female,65.7,194,17.5,Hypertension,174.9,163,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0662,71,Male,117,198,29.8,Hypertension,187.2,79,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0663,22,Female,90.1,170,31.2,Hypertension,175.5,113.1,Low_Sodium,NULL,NULL
+P0664,53,Male,115.3,195,30.3,Obesity,198.9,106.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0665,51,Male,90.3,193,24.2,Obesity,190.7,142.2,Balanced,NULL,NULL
+P0666,69,Male,83.6,170,28.9,Diabetes,248.7,165,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0667,48,Female,72,193,19.3,Diabetes,155.6,139.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0668,27,Male,92.4,160,36.1,Obesity,164.2,191,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0669,75,Female,59.7,188,16.9,Hypertension,155.3,193.7,Low_Sodium,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0670,36,Female,112.9,153,48.2,Obesity,212.6,117,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0671,75,Female,108.1,150,48,Hypertension,155.5,171.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0672,49,Male,72.2,177,23,Hypertension,233.6,166,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0673,18,Male,116.7,173,39,Diabetes,201.2,186.1,Low_Carb,NULL,NULL
+P0674,73,Male,107.8,184,31.8,Diabetes,202.7,128.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0675,22,Male,96.6,162,36.8,Obesity,206.2,139,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0676,62,Female,58.5,196,15.2,Hypertension,167.1,124.1,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0677,21,Female,83.5,183,24.9,Obesity,169.8,180.5,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0678,33,Female,85.4,160,33.4,None,181.9,99.9,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0679,41,Male,66.3,185,19.4,Hypertension,209.3,101.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0680,33,Female,55.6,166,20.2,Obesity,171,118.4,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0681,72,Male,104.4,184,30.8,Hypertension,161.6,99.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0682,19,Female,58.5,167,21,Hypertension,247,142.9,Low_Sodium,NULL,"Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0683,66,Male,91.6,189,25.6,Obesity,152.2,87.5,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0684,45,Male,115.6,171,39.5,Hypertension,230.3,111.6,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0685,49,Female,111.3,173,37.2,Hypertension,228.8,188.7,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0686,44,Female,69.4,168,24.6,Diabetes,179.7,123.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0687,37,Female,109.6,186,31.7,Hypertension,163.6,167.3,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0688,41,Female,50,188,14.1,None,164.6,84.8,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0689,29,Male,51.2,170,17.7,None,219.7,102.2,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0690,67,Female,92.2,157,37.4,Obesity,214.3,175,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0691,52,Female,75.5,177,24.1,Obesity,228.3,169.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging",NULL
+P0692,77,Female,77.1,154,32.5,Hypertension,243.7,120.2,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0693,50,Male,89.5,166,32.5,Hypertension,219.2,194.1,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0694,50,Male,63.4,186,18.3,Diabetes,165.6,188.4,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0695,78,Female,64.8,185,18.9,Hypertension,174.3,195.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0696,68,Male,83.9,168,29.7,Hypertension,234.2,125.6,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0697,60,Female,102.8,176,33.2,None,170.9,95.7,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0698,54,Male,93.4,183,27.9,Hypertension,157.3,151.5,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0699,29,Male,70.8,160,27.7,Hypertension,220.3,159,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0700,20,Male,80.1,194,21.3,Hypertension,190.3,86.3,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0701,18,Male,61.9,196,16.1,Obesity,242,172.2,Balanced,NULL,"Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0702,50,Female,55.2,161,21.3,Obesity,215,72.3,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking",NULL
+P0703,57,Female,104.8,170,36.3,Diabetes,159,132.8,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0704,27,Female,68.6,160,26.8,Hypertension,244.8,113,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0705,60,Male,62.4,188,17.7,None,175.9,166.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0706,61,Female,98.4,177,31.4,Hypertension,183.7,110.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0707,46,Female,93.3,154,39.3,Diabetes,190.2,177.5,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0708,30,Female,94.3,166,34.2,Obesity,155.1,147.3,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0709,29,Male,66,169,23.1,None,199.7,173.2,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0710,48,Male,66.3,190,18.4,Diabetes,162.3,198.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0711,63,Male,65.5,195,17.2,Obesity,190.1,158.3,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0712,19,Female,62.2,161,24,None,185.1,198,Balanced,NULL,"Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0713,78,Female,95.9,155,39.9,Hypertension,227.3,73.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0714,68,Female,109.4,166,39.7,None,230.3,114,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0715,67,Male,100.7,168,35.7,Obesity,165.3,84,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0716,52,Male,105.4,175,34.4,Obesity,186.7,104.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0717,40,Female,78.3,197,20.2,Obesity,187.3,179.1,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0718,34,Male,95.8,193,25.7,Diabetes,165.1,74.2,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0719,43,Male,74.8,193,20.1,Diabetes,229.8,137.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0720,25,Male,86.8,181,26.5,Hypertension,220.7,143.7,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0721,46,Male,83.7,155,34.8,Diabetes,169,142.9,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0722,43,Female,62.4,185,18.2,Hypertension,186.7,131.8,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0723,27,Male,77.1,187,22,None,160.6,172.8,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0724,43,Male,117.5,160,45.9,None,212.8,87.4,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0725,79,Male,67.4,182,20.3,Obesity,162.1,110.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0726,51,Male,59.4,173,19.8,None,248.6,150,Balanced,NULL,"Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0727,68,Female,79.3,172,26.8,Obesity,228.1,159.8,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0728,58,Female,105.3,164,39.2,Hypertension,189,122.5,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0729,24,Male,90.8,176,29.3,Diabetes,207.9,183.8,Low_Carb,NULL,NULL
+P0730,21,Male,97.7,160,38.2,Hypertension,241.1,124,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0731,75,Male,63.3,199,16,Obesity,205.4,122.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0732,70,Male,93.3,166,33.9,Hypertension,167.4,74.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0733,67,Male,72.6,163,27.3,Obesity,187.9,141.6,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0734,62,Male,108.4,176,35,Diabetes,234.3,162.1,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0735,28,Female,94.1,167,33.7,Obesity,214.4,84.9,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0736,46,Male,63.9,177,20.4,None,215.1,109.7,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0737,73,Female,54.5,196,14.2,Obesity,236.7,171.6,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0738,53,Female,53,196,13.8,None,239.4,117.6,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0739,42,Male,76,153,32.5,None,242,101.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0740,38,Female,68.6,156,28.2,None,159.5,157.4,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0741,78,Female,95.2,194,25.3,None,204.4,95.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0742,74,Female,85,184,25.1,None,224.1,186.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0743,53,Female,68.6,197,17.7,Obesity,225.7,83.7,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0744,27,Female,60.4,158,24.2,Diabetes,210.7,161.9,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0745,54,Female,58.9,157,23.9,Hypertension,166.7,134.9,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0746,26,Male,110.5,194,29.4,Hypertension,229.7,183.1,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0747,41,Female,67,166,24.3,Hypertension,222,86.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0748,52,Female,95.6,166,34.7,Hypertension,158.6,158.1,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0749,66,Female,106.7,198,27.2,None,196.4,144.4,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0750,52,Male,93,182,28.1,None,167.4,132.4,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0751,65,Female,110.2,181,33.6,None,183.7,133.9,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0752,53,Male,77.5,157,31.4,Hypertension,151.8,163.9,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0753,35,Female,116.9,168,41.4,Diabetes,190,191.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0754,66,Male,59.3,187,17,Diabetes,205,81.9,Low_Carb,NULL,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0755,56,Male,57.2,152,24.8,Hypertension,212,72.5,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0756,49,Female,96.1,154,40.5,Diabetes,216.3,174.7,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0757,41,Female,116,162,44.2,Diabetes,233.6,84.1,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0758,40,Male,106.6,196,27.7,None,171.5,198.3,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Walking ,Jogging,Yoga,Zumba","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0759,79,Female,55.3,195,14.5,Obesity,162,150.5,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,NULL
+P0760,49,Male,69.6,180,21.5,Hypertension,235.2,154.6,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0761,54,Male,115.1,165,42.3,Diabetes,165.7,95.9,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0762,29,Male,67.7,199,17.1,Hypertension,247.5,101.2,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0763,66,Male,104.7,181,32,Diabetes,234.3,155.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0764,72,Male,107.8,171,36.9,None,200.1,188.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0765,30,Female,84.7,178,26.7,Hypertension,248.1,197.7,"High Protein, Balanced Diet","Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0766,40,Male,77,171,26.3,Hypertension,159.7,95.7,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0767,42,Male,81.5,192,22.1,Hypertension,180.3,87.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0768,52,Female,65.9,152,28.5,Diabetes,213.8,77.3,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging",NULL
+P0769,58,Male,112.3,159,44.4,Obesity,185,182.9,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0770,47,Female,81.5,191,22.3,Obesity,242.8,108.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0771,34,Female,111.8,170,38.7,Obesity,156.6,70.2,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0772,66,Female,57.4,165,21.1,Diabetes,204.9,99.1,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0773,79,Male,119.2,161,46,Hypertension,209.1,114.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0774,37,Male,81,151,35.5,Hypertension,215.3,198.8,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0775,65,Male,53.3,190,14.8,None,175.6,138.1,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0776,42,Female,52.7,173,17.6,Hypertension,186.5,96.6,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0777,39,Male,102.2,184,30.2,Hypertension,234.4,113.5,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0778,30,Female,96.1,179,30,Obesity,169.5,112.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0779,76,Male,106.1,179,33.1,Obesity,232.7,72.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0780,36,Female,57.4,196,14.9,Hypertension,206.3,87.6,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0781,66,Male,52.5,184,15.5,Hypertension,226.2,160.4,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0782,53,Male,85.6,168,30.3,Hypertension,221.4,85.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0783,29,Male,77.1,199,19.5,None,170.8,100,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0784,78,Female,82.3,157,33.4,Hypertension,206.9,115.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0785,58,Female,119.4,175,39,None,236.8,168.5,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0786,36,Male,118,198,30.1,Hypertension,193.2,145.7,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0787,29,Male,116,189,32.5,None,246.7,159.6,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0788,26,Female,104.9,156,43.1,None,195.2,143.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0789,24,Female,74.8,179,23.3,Hypertension,164.3,158.9,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0790,45,Female,78.8,156,32.4,None,188.9,70.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0791,31,Male,88.5,152,38.3,Diabetes,245.2,191,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0792,48,Female,108.1,150,48,None,182,84.4,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0793,69,Male,54.8,185,16,Obesity,236.8,122.8,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0794,36,Female,79.7,174,26.3,Diabetes,238.1,170.2,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0795,75,Male,55.8,186,16.1,Obesity,185,126.6,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,NULL
+P0796,64,Female,86,150,38.2,None,158.3,193.1,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0797,33,Female,112.9,164,42,Diabetes,222.5,130.8,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0798,70,Female,104.8,186,30.3,Hypertension,181.2,183.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0799,22,Female,65.9,162,25.1,Obesity,228.3,175.4,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0800,52,Female,118.3,189,33.1,None,194.3,197.5,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0801,29,Male,96.7,157,39.2,Hypertension,198.5,190.5,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0802,42,Female,50.7,154,21.4,Diabetes,227.8,186.8,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0803,69,Female,67.9,158,27.2,Diabetes,188.2,165.1,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0804,76,Female,68.2,150,30.3,Hypertension,194.3,117.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0805,38,Male,54.8,185,16,Hypertension,187.6,83.8,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0806,53,Female,117.2,184,34.6,None,186.7,159.5,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0807,70,Male,83.5,151,36.6,Diabetes,202.6,197.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0808,40,Female,112.7,189,31.6,Obesity,230.9,164.5,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Walking ,Jogging,Yoga,Zumba","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0809,33,Female,72.6,172,24.5,Diabetes,186.2,190.7,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0810,74,Male,58.8,158,23.6,Diabetes,202.4,174.6,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0811,56,Female,83.2,183,24.8,Hypertension,217.1,91.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0812,62,Male,58,195,15.3,Hypertension,176.9,102.4,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0813,70,Male,84,163,31.6,Obesity,177.8,114.4,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0814,59,Female,114.4,153,48.9,None,243.3,91.9,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0815,75,Male,86.5,179,27,Obesity,222.4,145.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0816,56,Female,93.2,180,28.8,None,207.7,196.8,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0817,31,Female,61,187,17.4,None,214.8,169,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0818,48,Male,53.1,160,20.7,Hypertension,152.9,125,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0819,75,Male,57.8,184,17.1,None,211.8,70.6,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0820,22,Male,91.9,157,37.3,Obesity,201,110.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0821,52,Male,56.7,152,24.5,Diabetes,204.6,138.5,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0822,40,Female,76.3,163,28.7,Obesity,185.9,112.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0823,46,Female,88.5,162,33.7,Diabetes,158.1,84.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0824,60,Male,77.2,194,20.5,Hypertension,169.3,127.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0825,28,Female,61.5,181,18.8,Obesity,245.1,102.9,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0826,35,Female,69.2,183,20.7,Diabetes,190.9,188.2,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0827,64,Female,115,194,30.6,Diabetes,196.7,83.2,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0828,29,Female,97.3,168,34.5,None,155.3,76.4,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0829,26,Male,84.7,187,24.2,Obesity,153.8,70.7,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0830,27,Male,50.9,165,18.7,Diabetes,221.7,112.6,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0831,75,Female,119.5,151,52.4,Obesity,203.8,155.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-45%
+Proteins:	25-30%
+Fats:	25-30%"
+P0832,61,Male,97,189,27.2,Hypertension,200.9,165,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0833,34,Male,72.2,166,26.2,Hypertension,174.3,128.9,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0834,78,Male,111.5,183,33.3,None,224.5,159,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0835,55,Female,68.1,191,18.7,Obesity,166.8,116.8,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0836,24,Female,88.1,165,32.4,Hypertension,169,156.8,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0837,63,Female,94.5,187,27,None,196.1,75.3,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0838,30,Male,65.5,151,28.7,None,178.6,120.8,"High Protein, Balanced Diet","Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0839,57,Female,118.5,151,52,Diabetes,174.7,172.8,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0840,59,Female,102.4,175,33.4,Diabetes,214.5,174.4,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0841,26,Male,89,162,33.9,Diabetes,215.1,163.1,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0842,67,Female,62.6,196,16.3,Obesity,232.5,96.6,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0843,44,Female,53.8,180,16.6,Obesity,191.8,102.1,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0844,75,Male,72.4,183,21.6,Obesity,157.3,199.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0845,19,Male,102.7,188,29.1,None,177.4,83.4,Balanced,NULL,"Carbohydrates:	45-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0846,22,Male,68.9,152,29.8,Obesity,248,93.5,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0847,46,Female,87.8,157,35.6,Diabetes,209.6,86.9,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0848,54,Female,101,172,34.1,Hypertension,221,112.6,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0849,55,Female,57.6,163,21.7,Hypertension,150.7,97.3,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0850,36,Male,98,176,31.6,Hypertension,201.8,134.7,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0851,25,Male,56.4,178,17.8,Obesity,153.8,131.9,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0852,65,Female,117.6,188,33.3,None,206.9,187.2,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0853,62,Female,84.2,188,23.8,Hypertension,242.1,74.5,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0854,18,Male,60.5,150,26.9,Hypertension,246.8,111.6,Low_Sodium,NULL,"Carbohydrates:	50-60%
+Proteins:	30-35%
+Fats:	15-20%"
+P0855,39,Male,74,166,26.9,Obesity,204.1,147.6,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0856,69,Male,78.9,190,21.9,Hypertension,195.8,148.6,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0857,34,Male,103.1,179,32.2,Diabetes,244.5,132.4,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0858,24,Female,102,162,38.9,Hypertension,217.4,176,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0859,42,Male,92.8,170,32.1,Diabetes,156.5,78.2,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0860,62,Female,57.4,168,20.3,None,196.6,176,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0861,21,Female,60.6,168,21.5,Diabetes,174,134.3,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0862,53,Female,56.6,174,18.7,Hypertension,197,87.4,"Walking,Jogging","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0863,23,Male,90.4,171,30.9,Hypertension,195.5,185.1,Low_Sodium,NULL,NULL
+P0864,77,Male,111.4,180,34.4,None,208.2,154.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0865,48,Male,80.4,166,29.2,Diabetes,185.7,91.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0866,36,Male,61.3,172,20.7,Diabetes,166.4,74.4,Low_Carb,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0867,78,Female,89.1,181,27.2,Diabetes,200.4,88.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0868,61,Male,106.8,159,42.2,Diabetes,233,149.1,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0869,71,Male,101.9,159,40.3,Diabetes,216.4,93.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0870,56,Female,111.7,185,32.6,Obesity,183.8,99.3,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0871,44,Male,69.5,157,28.2,Diabetes,243.6,73.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0872,27,Female,63.6,169,22.3,Diabetes,241.2,164,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0873,43,Female,111.6,181,34.1,None,170.9,175.3,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0874,36,Female,96,199,24.2,Hypertension,153.9,173.6,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0875,56,Female,71.8,163,27,Hypertension,224.1,86.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0876,79,Female,102,199,25.8,Hypertension,232.8,187.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0877,20,Female,107.1,177,34.2,None,246.8,157.4,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0878,62,Female,93,195,24.5,Diabetes,239,186.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0879,30,Female,98.2,173,32.8,None,210.1,128.1,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0880,67,Male,76.3,164,28.4,Obesity,203,126.8,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0881,45,Male,87.7,171,30,Diabetes,152.8,172,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0882,79,Male,86.7,179,27.1,None,174.7,82.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0883,75,Male,109.4,153,46.7,Diabetes,196,137.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0884,37,Female,108.8,162,41.5,Diabetes,212.9,178.7,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0885,45,Male,108.3,172,36.6,None,205.7,177.9,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0886,25,Female,50.8,157,20.6,Obesity,224.3,194.3,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0887,78,Male,102.5,167,36.8,Obesity,178,160.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0888,58,Male,103.1,161,39.8,Diabetes,206.5,97,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0889,56,Male,97.5,180,30.1,Hypertension,158.8,72.6,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0890,18,Female,102.9,163,38.7,Obesity,191.4,132.3,Balanced,NULL,"Carbohydrates:	45-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0891,20,Male,108.9,183,32.5,Hypertension,225,136.8,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0892,30,Female,82.9,167,29.7,Hypertension,219.3,101.2,"High Protein, Balanced Diet","Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0893,45,Female,85.1,183,25.4,Diabetes,249.1,86.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging",NULL
+P0894,79,Male,58.7,160,22.9,Diabetes,177.8,146.2,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0895,74,Male,77,190,21.3,None,199.8,169.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0896,77,Male,95,161,36.6,Hypertension,183,199.1,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0897,66,Female,104.6,198,26.7,None,194.1,168.6,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0898,42,Male,65.2,164,24.2,Hypertension,235.7,173.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0899,73,Female,59.6,180,18.4,Obesity,218.4,150.1,Balanced,NULL,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0900,50,Female,96.4,198,24.6,Diabetes,238.2,198.2,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0901,55,Male,50.1,178,15.8,Hypertension,170.4,153.2,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0902,70,Male,62.5,175,20.4,Diabetes,237.3,181.8,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0903,23,Female,52,167,18.6,Hypertension,156,193,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0904,75,Female,61.7,181,18.8,Hypertension,238.9,190.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0905,61,Female,62.7,171,21.4,None,182.9,119.6,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0906,62,Male,77.1,187,22,Obesity,181.5,80.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0907,49,Female,78.2,166,28.4,Diabetes,201.2,92.3,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0908,62,Male,111.2,172,37.6,Diabetes,244.1,77.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0909,78,Female,85.7,173,28.6,Diabetes,154.8,83.7,"Salads,Calcium,Fruits",stretching,NULL
+P0910,64,Female,100.6,199,25.4,Hypertension,185.2,94,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0911,38,Male,57.3,157,23.2,Obesity,235.7,114.3,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0912,33,Female,65.8,190,18.2,None,189.6,140.7,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0913,71,Male,99.2,155,41.3,Diabetes,169.9,162.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0914,38,Male,53.7,154,22.6,Hypertension,192.5,97.4,"High protein,High carbs,Fruits,Dry fruits",Strength training,"Carbohydrates:	45-50%
+Proteins:	20-30%
+Fats:	20-30%"
+P0915,28,Female,84.1,193,22.6,Hypertension,188.6,157.4,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0916,77,Male,92,178,29,Obesity,241.5,161.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0917,54,Male,92.2,177,29.4,Hypertension,226.2,142.6,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0918,53,Female,51.6,160,20.2,Obesity,200.5,187.5,"Walking,Jogging","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	30-40%"
+P0919,52,Male,72.5,150,32.2,Obesity,248.8,84.4,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	35-35%"
+P0920,36,Male,94.6,192,25.7,Diabetes,196.5,93,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0921,37,Male,60.4,168,21.4,Obesity,155.8,125.7,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0922,74,Female,98.7,158,39.5,Diabetes,176.2,86.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0923,35,Male,102.2,176,33,Obesity,193.6,143.6,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0924,64,Female,118.7,183,35.4,Hypertension,165.7,121.8,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0925,58,Female,64.7,193,17.4,Hypertension,244.8,107,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	25-35%
+Proteins:	30-35%
+Fats:	35-40%"
+P0926,66,Male,107.8,153,46.1,None,226.7,92.1,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0927,31,Male,86.4,185,25.2,None,176.8,113.6,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0928,32,Male,76.1,167,27.3,None,209.1,149,Balanced,"Running,Jogging,moderate gym","Carbohydrates:	35-55%
+Proteins:	15-40%
+Fats:	15-30%"
+P0929,48,Female,58.6,164,21.8,Hypertension,222.1,144.9,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0930,18,Male,101.5,162,38.7,Obesity,244.1,91.3,Balanced,NULL,"Carbohydrates:	45-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0931,70,Male,66.5,168,23.6,Hypertension,238.2,86.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0932,71,Male,76,198,19.4,None,201.5,73.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0933,71,Male,54.4,155,22.6,Hypertension,227.5,71.6,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0934,20,Male,106.1,197,27.3,None,206.2,184.4,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0935,33,Female,103.7,161,40,None,205.3,75.9,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0936,40,Female,101.4,186,29.3,Obesity,161.5,165.1,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Walking ,Jogging,Yoga,Zumba","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0937,74,Male,71,166,25.8,Diabetes,162.6,183.4,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0938,28,Male,62.1,172,21,Diabetes,203,82.7,"High Protein, Balanced Diet","Strength training,running,yoga",Carbohydrates: 45%-65% of daily calories Protein: 10%-35% of daily calories Fats: 20%-35% of daily calories 
+P0939,29,Male,94.6,175,30.9,None,176.9,126.7,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0940,27,Male,84.7,178,26.7,Diabetes,152.1,195.1,"High Protein, Balanced Diet","Strength training,running,yoga","Carbohydrates:	45-55%,
+Proteins:	15-25%,
+Fats:	20-35% "
+P0941,49,Female,62.5,182,18.9,None,222.3,178.4,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0942,33,Male,98,176,31.6,Hypertension,153.2,133.7,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0943,25,Female,119.4,174,39.4,Hypertension,209.5,169.1,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0944,55,Female,102.3,159,40.5,None,203.9,178.3,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0945,29,Male,101.8,196,26.5,Obesity,246.9,115.2,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0946,41,Female,116.5,172,39.4,Hypertension,198.4,186,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	20-30%
+Proteins:	35-45%
+Fats:	30-35%"
+P0947,45,Female,64.2,170,22.2,Hypertension,156.4,131.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0948,70,Female,89.6,170,31,Hypertension,205.2,138.6,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-45%
+Proteins:	30-35%
+Fats:	25-30%"
+P0949,25,Female,118.6,192,32.2,Obesity,234.1,200,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0950,75,Male,61.6,162,23.5,Diabetes,249.7,179.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0951,45,Male,99,186,28.6,None,193,117,Balanced,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0952,53,Female,91,182,27.5,None,182,71.3,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0953,43,Male,91.1,173,30.4,Hypertension,240.7,151.4,Low_Sodium,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0954,25,Male,98.8,193,26.5,Obesity,169.1,161.5,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0955,75,Male,115.1,160,45,Hypertension,211.5,154.6,"Salads,Calcium,Fruits",stretching,NULL
+P0956,77,Male,104.8,166,38,Hypertension,190.6,195.8,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0957,67,Male,53.9,153,23,None,154.1,182.2,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0958,45,Female,109.7,196,28.6,Diabetes,184.7,128.3,Low_Carb,"Walking ,Jogging,Yoga,Zumba","Carbohydrates:	30-40%
+Proteins:	30-40%
+Fats:	25-30%"
+P0959,45,Male,65.8,174,21.7,Diabetes,176.5,78.2,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0960,54,Male,76.4,179,23.8,Hypertension,218.6,131.9,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0961,58,Male,82.3,158,33,Hypertension,244.9,159.6,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0962,53,Male,83.7,170,29,Hypertension,176.8,149,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
+P0963,44,Female,80.5,169,28.2,Obesity,231.1,140,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0964,71,Female,115.6,168,41,Obesity,155.5,130.9,"Salads,Calcium,Fruits",stretching,NULL
+P0965,34,Female,99.4,168,35.2,Obesity,203.8,108.2,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0966,26,Female,94.2,161,36.3,Diabetes,157.1,106.1,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0967,50,Male,53.5,186,15.5,Hypertension,243.4,135,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0968,70,Female,113.3,191,31.1,Diabetes,226.6,90.9,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0969,37,Male,113.7,166,41.3,Diabetes,215.8,114.3,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	25-35%"
+P0970,30,Male,104.6,186,30.2,Hypertension,232.4,112.1,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0971,45,Male,50.5,197,13,Diabetes,214.8,146.3,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0972,65,Male,54,188,15.3,Diabetes,246.9,78.7,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0973,46,Male,65.8,177,21,Diabetes,221.4,177.9,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0974,30,Female,59.2,190,16.4,None,242.5,143.1,Balanced,NULL,NULL
+P0975,63,Female,77.9,184,23,None,201.7,157.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0976,52,Female,114.6,196,29.8,Obesity,161.7,161.4,"Salads,No sugar,No sweets,Low carbs,Fruits,Juice,Dry fruits","Walking,Yoga,Stretching","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	25-35%"
+P0977,78,Female,83,197,21.4,None,202.8,107.9,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0978,23,Male,50.9,167,18.3,Obesity,162.7,131.1,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0979,35,Female,69.8,163,26.3,Hypertension,209.2,194.3,Low_Sodium,"Running,Jogging,moderate gym","Carbohydrates:	45-65%
+Proteins:	10-35%
+Fats:	20-35%"
+P0980,68,Male,53.1,184,15.7,Diabetes,198.2,169.7,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0981,22,Female,52.5,193,14.1,Obesity,212.3,196,"High protein,High carbs,Fruits,Dry fruits",Strength training,NULL
+P0982,64,Male,69.3,190,19.2,Obesity,151,167,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0983,42,Male,69.3,156,28.5,Obesity,169.5,92.8,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0984,19,Female,105.1,190,29.1,Obesity,199.1,78.4,Balanced,NULL,NULL
+P0985,27,Male,118.2,162,45,Hypertension,245.1,145.1,"low carbs,High protein","Intense workout,Running","Carbohydrates:	35-45%
+Proteins:	25-35%
+Fats:	20-30%"
+P0986,73,Male,76,167,27.3,Obesity,188.4,116.5,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0987,47,Female,80,186,23.1,None,192.4,105.8,"Salads,Peenut,Multigrain aata,Moderate protein,Dry fruits","Walking ,Jogging","Carbohydrates:	35-45%
+Proteins:	30-35%
+Fats:	25-35%"
+P0988,67,Male,109.1,162,41.6,Hypertension,221.5,174.9,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0989,76,Female,68.8,185,20.1,Obesity,210.4,117.7,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-55%
+Proteins:	20-25%
+Fats:	25-30%"
+P0990,62,Female,60.9,180,18.8,Hypertension,179.9,111.2,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P0991,22,Female,109.7,151,48.1,Obesity,191.1,180.5,"low carbs,High protein","Intense workout,Running","Carbohydrates:	40-50%
+Proteins:	20-30%
+Fats:	20-35%"
+P0992,72,Male,53.3,165,19.6,Obesity,171.8,180,"No sugar,Seeds,Salads,moderate Protein,moderate carbs,Fruits",Waking,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-30%"
+P0993,73,Male,93.4,158,37.4,Diabetes,246.6,116.3,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	40-50%
+Proteins:	25-30%
+Fats:	25-30%"
+P0994,50,Male,89.3,158,35.8,Obesity,163.1,178.2,"Salads,Juice,Fruits,No heavy diet,Dry fruits,Milk","Walking,Jogging","Carbohydrates:	30-40%
+Proteins:	30-35%
+Fats:	25-35%"
+P0995,71,Female,74.2,187,21.2,Diabetes,187.2,180.6,"Salads,Calcium,Fruits",stretching,"Carbohydrates:	45-50%
+Proteins:	20-25%
+Fats:	25-30%"
+P0996,18,Male,72.1,160,28.2,Obesity,152.6,125.1,Balanced,NULL,"Carbohydrates:	45-55%
+Proteins:	25-30%
+Fats:	20-25%"
+P0997,35,Female,104,171,35.6,Hypertension,172.2,78.6,"Low carbs,Moderate protein,No sweets,No sugar,Nuts","Running,Strength training,Jogging","Carbohydrates:	45-60%
+Proteins:	10-35%
+Fats:	20-35%"
+P0998,49,Female,56,182,16.9,Obesity,228,70.2,"Moderate protein,High carbs,Dry fruits,Fruits,","Strength training,Walking","Carbohydrates:	40-50%
+Proteins:	25-35%
+Fats:	25-35%"
+P0999,64,Male,66.6,185,19.5,Diabetes,170.1,138,"Calcium,Fruits,Juice,Little bit carbs",walking,"Carbohydrates:	45-55%
+Proteins:	25-35%
+Fats:	25-35%"
+P1000,66,Female,101.3,194,26.9,Obesity,158,114.7,"Calcium,Fruits,Juice,No sugar","walking,Stretching","Carbohydrates:	45-55%
+Proteins:	20-30%
+Fats:	25-35%"
